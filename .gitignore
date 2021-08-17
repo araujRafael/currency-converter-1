@@ -1,0 +1,8 @@
+#Dir
+/node_modules
+
+#Variables
+.env
+
+#files
+aula.md
